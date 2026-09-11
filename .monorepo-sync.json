@@ -1,0 +1,28 @@
+{
+  "generator": "dev-tools/sync-port-project.py",
+  "managed_files": {
+    "LICENSE": "e00989f872a62991eba15c3c920a06cb8837a00428151aebacc97464b143bdb3",
+    "README.md": "0863a3d3c65d03137c7b469763e42eb56079f78ab4f8820b680ff56580949e40",
+    "extension.js": "8bb760d33b4212ee9bd5d42834dba8cce667d76b9f99fdbb955d65e2b39f6931",
+    "lib/cardActions.js": "585e0d93ec06dc14d843ff461e060e99171418438184bd428078eef137157362",
+    "lib/defaults.js": "8b9612ba835fa8afd0f32e2d4513e3802d21b21504d6bc614babf55d1b842db3",
+    "lib/store.js": "e60b8bba322ba4570aefe8f9ce793f7b9a400ca99fe772b8b2098f90c2fd9293",
+    "metadata.json": "67507c03236d78272e36a577d6f4670b1f0ace2dcb9914f60df52257e446c8c8",
+    "prefs.js": "6421aa6dba11bb27e6d74af238cf0cef56a8fffb49e5668d5c70d3abcb6d03ae",
+    "stylesheet.css": "e1f51b2ce421108e53755a604a440a3b798082a99990f0b706678dde373a01d2",
+    "widget.js": "54a165c8b63e8f315cf92445266fcb9019da418f43c859bca289a7c65b43c7c6"
+  },
+  "port": {
+    "alias": "color-clock",
+    "desktop": "gnome",
+    "kind": "extension",
+    "package_id": null,
+    "repo": "gnome-color-clock",
+    "uuid": "gnome-color-clock@curbsoftware"
+  },
+  "schema": 1,
+  "source_directory": "gnome-color-clock@curbsoftware",
+  "source_repository": "CurbSoftware/cinnamon-monorepo",
+  "source_revision": "dfb9fb7a7fff7cbcf0c48d3892fecd994a9c9059",
+  "source_worktree_dirty": false
+}

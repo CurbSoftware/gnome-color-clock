@@ -1,0 +1,12 @@
+{
+  "uuid": "gnome-color-clock@curbsoftware",
+  "name": "Color Timer Clock",
+  "description": "Clock, timer and chronometer cards whose background colors ramp along per-card schedules",
+  "version": "1.0.0",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48"
+  ]
+}
