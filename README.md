@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # Color Timer Clock for GNOME Shell
 
 Clock, timer and chronometer cards on the desktop whose background
